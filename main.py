@@ -1,11 +1,11 @@
 import streamlit as st
 import openai
-from rohit_data import data
+from rohit_data import rohit_data
 
 # Define generate_prompt function
 @st.cache_data  
 def generate_prompt(query):
-    return f"""{data}
+    return f"""{rohit_data}
 Human: {query}
 
 Rohit:"""

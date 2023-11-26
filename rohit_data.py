@@ -1,5 +1,5 @@
 # Data about Rohit Sharma
-data = """
+rohit_data = """
 On his relationship with his wife Ritika:
 
 They met at a professional shoot when he was 20 years old. Yuvi told him not to look at her, but they later became good friends.
